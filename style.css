@@ -20,6 +20,14 @@
   width: 960px;
   height: 1400px;
   background-color: lightgreen;
+  display: flex;
+  justify-content: center;
+}
+
+.main-content {
+  width: 500px;
+  height: 1400px;
+  background-color: green;
 }
 
 .footer {
